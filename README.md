@@ -23,6 +23,7 @@ A list of projects built following the [local-first concept](https://www.inkands
 - [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop): Customizable personal knowledge-base with git as backup manager.
 - [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5): A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc, works in local-first.
 - [Volon](https://github.com/danielgolden/volon): Volón is a plain text, markdown-focused, local-first notes app with text-editing keyboard shortcuts.
+- [Novel Smith](https://github.com/huanweide/novel-smith): A local-first AI writing workshop for long-form web novels u2014 characters, lore, outlines, chapters, all in one place. Built-in AI-trace detector (pure local rules, no API key needed), humanize engine, and SQLite storage that never leaves your machine.
   
 *Libraries*
 
